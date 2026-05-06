@@ -1,0 +1,6 @@
+{
+  "name": "Handwritten Digit Classifier",
+  "description": "A machine learning application that classifies handwritten digits (0-9) using a scikit-learn model and a FastAPI backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
